@@ -1,0 +1,34 @@
+[
+  {
+    "productName":"shirt",
+    "category":"fashion",
+    "description":"red shirt",
+    "price":20.5,
+    "rating":3,
+    "sellerName":"amazon"
+  },
+  {
+    "productName":"shirt",
+    "category":"fashion",
+    "description":"blue shirt",
+    "price":30,
+    "rating":3.5,
+    "sellerName":"flipkart"
+  },
+  {
+    "productName":"shirt",
+    "category":"fashion",
+    "description":"black shirt",
+    "price":40.9,
+    "rating":4,
+    "sellerName":"ebay"
+  },
+  {
+    "productName":"kurta",
+    "category":"fashion",
+    "description":"black kurta",
+    "price":40.9,
+    "rating":4,
+    "sellerName":"ebay"
+   }
+]
